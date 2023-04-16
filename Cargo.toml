@@ -4,12 +4,9 @@ authors = ["bitten2up <seant9140@gmail.com"]
 description = "a simple 3y3 text viewer/encoder based on https://synthetic.garden/3y3.htm"
 repository = "https://github.com/litten2up/secondsight/"
 license = "MIT"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-fern = "0.6.2"
-log = "0.4.17"
-simple_logger = "4.1.0"
